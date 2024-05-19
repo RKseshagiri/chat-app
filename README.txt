@@ -48,6 +48,10 @@ This project is a real-time chat application with the following features:
     cd client
     npm install
     ```
+## Postman Collection
+
+For convenience, a Postman collection is provided to help you interact with the API endpoints.
+
 
 ### Import Initial Data into MongoDB using MongoDB Compass
 
